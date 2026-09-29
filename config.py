@@ -56,7 +56,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Badmunda05/BadMusic",
+    "https://github.com/riteshsingh12965-bit/BadMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -79,10 +79,10 @@ API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBots1JyNWUFBwhFiouHmUyXC")
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PBX_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PBXCHATS")
-SOURCE = getenv("SOURCE", "https://github.com/Badmunda05/BadMusic/fork")
-CHAT = getenv("CHAT", "https://t.me/PBXCHATS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Lunaxbots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Lunaxbots")
+SOURCE = getenv("SOURCE", "https://t.me/Lunaxbots")
+CHAT = getenv("CHAT", "https://t.me/Lunaxbots")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
